@@ -1,0 +1,27 @@
+input {
+  border: 0;
+  padding: 10px;
+  margin: 10px;
+  outline: 0;
+  background: transparent;
+  border: 1px solid black;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+input:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.searchButton {
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.searchIcon {
+  margin-top: 5px;
+  width: 105x;
+  height: 15px;
+  border-radius: 5px;
+}

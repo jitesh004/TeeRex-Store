@@ -1,0 +1,23 @@
+.filter-sm {
+  display: block;
+}
+
+.filterIcon {
+  display: none;
+  height: 30px;
+  width: 30px;
+}
+
+@media (max-width: 820px) {
+  .filter-sm {
+    display: block !important;
+  }
+
+  .filterBox {
+    display: none;
+  }
+
+  .filterIcon {
+    display: inline-block;
+  }
+}

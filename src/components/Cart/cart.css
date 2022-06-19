@@ -1,0 +1,12 @@
+.totalPrice {
+  font-size: large;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.shoppingCart {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: left;
+}
